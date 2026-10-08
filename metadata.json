@@ -1,0 +1,6 @@
+{
+  "name": "사회복무요원 연가·병가 간격 계산기",
+  "description": "입대일(21개월 복무)을 바탕으로 남은 복무일수를 계산하고, 연가 및 병가를 며칠마다 사용할 수 있는지(전일, 2시간, 3시간 조퇴 등) 정밀하게 시뮬레이션하는 서비스",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

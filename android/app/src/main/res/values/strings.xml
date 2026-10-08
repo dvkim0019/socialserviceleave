@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">사회복무요원 연가 병가 계산기</string>
+    <string name="title_activity_main">사회복무요원 연가·병가 계산기</string>
+    <string name="package_name">com.davinkim.socialserviceleave</string>
+    <string name="custom_url_scheme">com.davinkim.socialserviceleave</string>
+</resources>
